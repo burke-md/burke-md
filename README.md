@@ -8,5 +8,4 @@
 - 📫 How to reach me: Find me on [twitter](https://twitter.com/ThisIsMikeDB) or [linkedIn](https://www.linkedin.com/in/burke-md/)
 - ⚡ Fun fact: My favorite place to be is out on the water
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burke-md&layout=compact)](https://github.com/burke-md)
 
