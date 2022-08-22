@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on blockchain development
-- 🌱 I’m currently learning about Golang 
+- 🌱 I’m currently learning about interpreters and compilation 
 - 👯 I’m looking to collaborate on tools to ease work flow - perhaps an open source CLI?
 - 💬 Ask me about rock climbing 
 - 📫 How to reach me: Find me on [twitter](https://twitter.com/ThisIsMikeDB) or [linkedIn](https://www.linkedin.com/in/burke-md/)
